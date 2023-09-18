@@ -2,4 +2,4 @@
 
 The PDF is in this repository called "FeedApp - Design Document"
 
-[Design Document PDF](FeedApp - Design Document.pdf)
+[Design Document PDF](design_document.pdf)
